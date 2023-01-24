@@ -2,6 +2,9 @@
 # Hi, im Atlas 👋
 
 
-If you want to contact me or want support for any of my github projects or active discord bots join 
+If you want to contact me -
 
-https://discord.gg/invite/dry
+
+`Telegram : @Atlas900`
+
+`Discord : Cwin#9078`

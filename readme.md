@@ -1,6 +1,3 @@
-
-# Hi, im Atlas 👋
-
 <p align=center>
   <a href="https://discord.com/users/1067216543856992357"><img src="https://lanyard-profile-readme.vercel.app/api/1067216543856992357" width=45%></a>
 </p>

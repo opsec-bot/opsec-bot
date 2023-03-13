@@ -6,4 +6,4 @@
 If you want to contact me -
 
 
-`Telegram : @Atlas900`
+`Telegram : [@timewraith](https://t.me/timewraith)`

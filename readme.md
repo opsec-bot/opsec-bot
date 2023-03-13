@@ -6,4 +6,4 @@
 If you want to contact me -
 
 
-`Telegram : [@timewraith](https://t.me/timewraith)`
+`Telegram : `[@timewraith](https://t.me/timewraith)

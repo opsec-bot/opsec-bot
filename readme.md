@@ -1,7 +1,6 @@
-<h1 align="center">I = redo</h1>
+<h1 align="center">I = super haxor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opsec-bot&label=Profile%20views&color=0e75b6&style=flat" alt="opsec-bot" /> </p>
 
-- To contact me find me on telegram **https://t.me/timewraith**
 
 <p align="left">
 </p>

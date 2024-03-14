@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@:obsec-bot" alt=":opsec-bot">
+  <img src="https://count.getloli.com/get/@:opsec-bot" alt=":opsec-bot">
 </p>
 
 <p align="center">

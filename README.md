@@ -13,31 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@:opsec-bot" alt=":opsec-bot">
-</p>
-
-<p align="center">
-  <img src="./images/light-bar.gif" width="1000" alt="Separator">
-</p>
-<p align="center">
-  <img src="./images/rotate-light-bar.gif" alt="|" width="1" height="150" align="left"/>
-  <img src="./images/rotate-light-bar.gif" alt="|" width="1" height="150" align="right"/>
-  🔭 <strong>Currently Working On:</strong> Backend solutions using JS, TS, C++, C#, Go, and Rust.<br>
-  🌱 <strong>Learning:</strong> Deep diving into Rust and exploring advanced backend architectures.<br>
-  👯 <strong>Collaborating:</strong> Have an idea? Let's see what we can create together.<br>
-  💬 <strong>Ask Me About:</strong> Backend tips, coding in various languages.<br>
-  <strong>🤖 Projects you should check out:</strong><br>
-  - <strong>Info Hider:</strong> A Tampermonkey script to hide your personal info while you browse.<br>
-</p>
-
-<p align="center">
   <img src="./images/light-bar.gif" width="1000" alt="Separator">
 </p>
 
-<p align="center">
-  <strong>🤖 Projects you should check out:</strong><br>
-  - <strong>Info Hider:</strong> A Tampermonkey script to hide your personal info while you browse.
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
@@ -49,21 +27,7 @@
 </p>
 
 <p align="center">
-  <strong>📚 Must-Check Resources for Backend Skid Ninjas</strong><br>
-  <a href="https://backend.dev/101">Backend Basics</a><br>
-  <a href="https://api-design.nodejs.org/">API Mastery</a><br>
-  <a href="https://go.dev/talks/concurrency">Concurrency Chronicles</a>
-</p>
-
-<p align="center">
-  <strong>📺 Inspirational & Educational Content</strong><br>
-  <a href="https://www.youtube.com/watch?v=bEjnZeZEqSY">JavaScript: The Weird Parts</a><br>
-  <a href="https://www.youtube.com/watch?v=BwuLxPH8IDs">TypeScript for Beginners</a><br>
-  <a href="https://www.youtube.com/watch?v=d1uraoHM8Gg">Rust: Memory Safety without Garbage Collection</a>
-</p>
-
-<p align="center">
-  <img src="./images/light-bar.gif" width="500" alt="Separator">
+  <img src="https://count.getloli.com/get/@:opsec-bot" alt=":opsec-bot">
 </p>
 
 <p align="center">

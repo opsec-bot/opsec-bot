@@ -5,7 +5,7 @@
     🗨️ "You're never gonna make it in life, Alejandro." - 4th-grade ELA teacher 🗨️
 </p>
 <p align="center">
-    - 💻 <a href="https://t.me/ebthit">Telegram - ebthit</a> 💻 -
+    - 💻 <a href="https://t.me/krrrupt">Telegram - krrrupt</a> 💻 -
 </p>
 
 <p align="center">

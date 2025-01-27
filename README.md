@@ -9,14 +9,20 @@
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go" alt="Go badge">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" alt="Rust badge">
   <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python" alt="Python badge">
-  
 </p>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@:opsec-bot" alt=":opsec-bot">
-</p>
-
-<p align="center">
-  <strong>📈 GitHub Stats</strong><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=opsec-bot&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
+<table style="width:100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <p align="left">
+        <strong>My GitHub Stats</strong><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=opsec-bot&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+      </p>
+    </td>
+    <td style="border: none;">
+      <p align="right">
+        <img src="https://count.getloli.com/get/@:opsec-bot" alt=":opsec-bot">
+      </p>
+    </td>
+  </tr>
+</table>

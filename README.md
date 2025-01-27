@@ -21,6 +21,7 @@
     </td>
     <td style="border: none;">
       <p align="right">
+        <strong>My Profile Views</strong><br>
         <img src="https://count.getloli.com/get/@:opsec-bot" alt=":opsec-bot">
       </p>
     </td>

@@ -15,13 +15,11 @@
   <tr style="border: none;">
     <td style="border: none;">
       <p align="left">
-        <strong>My GitHub Stats</strong><br>
         <img src="https://github-readme-stats.vercel.app/api?username=opsec-bot&show_icons=true&theme=tokyonight" alt="GitHub Stats">
       </p>
     </td>
     <td style="border: none;">
       <p align="right">
-        <strong>My Profile Views</strong><br>
         <img src="https://count.getloli.com/get/@:opsec-bot" alt=":opsec-bot">
       </p>
     </td>
